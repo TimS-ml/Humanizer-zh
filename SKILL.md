@@ -1,6 +1,6 @@
 ---
 name: humanizer-zh
-version: 0.1.0
+version: 0.1.1
 description: |
   Use when 编辑或审阅中文文本, 包括笔记, 文档和博客中的 AI 写作痕迹. 也适用于完整
   技术文章出现主线混乱, 私人术语系统, 标题只写数量或符号却没有说明对象或用途,
