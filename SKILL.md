@@ -1,6 +1,6 @@
 ---
 name: humanizer-zh
-version: 226-10-12
+version: 226-11-12
 description: |
   Use when 编辑或审阅中文文本, 包括笔记, 文档和博客中的 AI 写作痕迹. 也适用于完整
   技术文章出现主线混乱, 用索引或阅读安排代替机制解释, 术语未定义, 多义词混用,
